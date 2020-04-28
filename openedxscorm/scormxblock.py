@@ -44,7 +44,7 @@ class ScormXBlock(XBlock):
             "LOCATION": "alternatevalue",
         }
 
-    Note that neither the folder the folder nor the package file are deleted when the
+    Note that neither the folder nor the package file are deleted when the
     xblock is removed.
     """
 
